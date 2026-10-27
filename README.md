@@ -7,7 +7,7 @@ MCP server for the STU University Information System ([is.stuba.sk](https://is.s
 Lets Claude, Codex, OpenCode and other MCP clients read your schedule, grades, exams and mail, and act on them.
 
 [![Tests](https://github.com/dmitthedazed/UIS_MCP/actions/workflows/tests.yml/badge.svg)](https://github.com/dmitthedazed/UIS_MCP/actions/workflows/tests.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
 </div>
 
